@@ -1,3 +1,3 @@
-<h1> BarChart.js-Kendo-MVC </h1>
+<h3> Horizontal Bar Chart using Chart.js </h3>
 
 <img src="Images/chart.png"> 
